@@ -1,4 +1,3 @@
-import React from 'react';
 import './EShop.css';
 import image1 from '../assets/images/Screenshot 2024-11-22 at 10.31.01 PM.png';
 import image2 from '../assets/images/Screenshot 2024-11-22 at 10.31.13 PM.png';
