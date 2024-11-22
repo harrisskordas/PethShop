@@ -10,11 +10,9 @@ const Home: React.FC = () => {
       <div className="carousel">
         <div className="carousel-item">
           <img src={image} alt="Slide 1" />
-          <h3>Quality Products for Your Pets</h3>
         </div>
         <div className="carousel-item">
           <img src={image2} alt="Slide 2" />
-          <h3>Exclusive Offers This Week!</h3>
         </div>
       </div>
       <section>
